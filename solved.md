@@ -1,7 +1,14 @@
 # Solved
 
+## Block detectportal.firefox.com
+
+1. Open about:config
+2. Search "network.captive-portal-service.enabled"
+3. Set boolean to false
+
+[Mozilla](https://support.mozilla.org/en-US/questions/1157121)
+
 ## How to uninstall a Homebrew package including all dependencies
-16 Jan 2021
 
     $ brew tap beeftornado/rmtree
     $ brew rmtree <package>
