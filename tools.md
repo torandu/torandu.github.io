@@ -38,6 +38,10 @@
 
     A better Python REPL
 
+- [ranger](https://github.com/ranger/ranger)
+
+    ranger is a console file manager with VI key bindings
+
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 
     ripgrep is a line-oriented search tool that recursively searches your
@@ -45,7 +49,14 @@
 
 - [steck](https://github.com/supakeen/steck)
 
+    Python application to interface with the pinnwand pastebin software
 
 - [tokei](https://github.com/XAMPPRocky/tokei)
 
     Tokei is a program that displays statistics about your code
+
+- [vim](https://www.vim.org/)
+
+    Vim is a highly configurable text editor
+
+[[home]](https://torandu.github.io/)
