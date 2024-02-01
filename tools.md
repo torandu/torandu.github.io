@@ -63,4 +63,5 @@
 
     Vim is a highly configurable text editor
 
+---
 [[home]](https://torandu.github.io/)
