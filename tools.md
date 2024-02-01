@@ -30,6 +30,10 @@
 
     Prevents you from committing secrets and credentials into git repositories
 
+- [grip](https://github.com/joeyespo/grip)
+
+    Render local readme files before sending off to GitHub
+
 - [hyperfine](https://github.com/sharkdp/hyperfine)
 
     A command-line benchmarking tool
