@@ -38,6 +38,10 @@
 
     A command-line benchmarking tool
 
+- [Make](https://www.gnu.org/software/make/)
+
+    Build tool but also generally useful for automation
+
 - [ptpython](https://github.com/prompt-toolkit/ptpython)
 
     A better Python REPL
@@ -54,6 +58,11 @@
 - [steck](https://github.com/supakeen/steck)
 
     Python application to interface with the pinnwand pastebin software
+
+- [terraformer](https://github.com/GoogleCloudPlatform/terraformer)
+
+    A CLI tool that generates `tf/json` and `tfstate` files based on existing
+    infrastructure (reverse Terraform)
 
 - [tokei](https://github.com/XAMPPRocky/tokei)
 
