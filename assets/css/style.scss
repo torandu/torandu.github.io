@@ -1,5 +1,7 @@
 ---
 ---
+@import "{{ site.theme }}";
+
 #project_title {
   font-size:20px;
   font-weight:300;
@@ -15,4 +17,3 @@
 #main_content {
   padding-top:10px
 }
-@import "{{ site.theme }}";
